@@ -1,0 +1,21 @@
+body {
+    background-color: #93B1A6;
+    color: #183D3D;
+    margin: 0;
+
+}
+
+main {
+    margin: 1rem;
+    text-align: center;
+}
+
+footer{
+    background-color: #5C8374;
+    color: #040D12;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
