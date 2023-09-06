@@ -8,7 +8,7 @@ body {
 main {
     background-color: #93B1A6;
     text-align: center;
-    padding: 2% 20% 4% 20%;
+    padding: 2% 20% 2% 20%;
     
 
 }
@@ -40,4 +40,19 @@ h2 {
 
 p {
     font-size: 20px;
+}
+
+button {
+    background-color: #5C8374;
+    color: #040D12;
+    border-radius: 15%;
+    border-style: hidden;
+    padding: 10px;
+    margin: 10px;
+}
+
+button:hover {
+background-color: #183D3D;
+color: #5C8374;
+cursor: pointer;
 }
